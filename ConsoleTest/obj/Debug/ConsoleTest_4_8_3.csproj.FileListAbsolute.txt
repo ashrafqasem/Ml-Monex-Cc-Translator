@@ -1,0 +1,74 @@
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe.config
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.pdb
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.pdb
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csprojResolveAssemblyReference.cache
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.exe
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.pdb
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe.config
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.pdb
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.pdb
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.AssemblyReference.cache
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.SuggestedBindingRedirects.cache
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CoreCompileInputs.cache
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CopyComplete
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.exe
+C:\Micrologic Software\mlmonexcctranslator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.pdb
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe.config
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.pdb
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.pdb
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll.config
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.AssemblyReference.cache
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.SuggestedBindingRedirects.cache
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CoreCompileInputs.cache
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CopyComplete
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.exe
+C:\Micrologic Software\mlmonexcctranslator2\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe.config
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll.config
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.AssemblyReference.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.SuggestedBindingRedirects.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CoreCompileInputs.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CopyComplete
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.exe
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.SuggestedBindingRedirects.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CoreCompileInputs.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe.config
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.exe
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\ConsoleTest_4_8_3.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\MLmonexCCtranslator.dll.config
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.AssemblyReference.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.csproj.CopyComplete
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.exe
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Text.Json.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Memory.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Text.Encodings.Web.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.ValueTuple.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Numerics.Vectors.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Buffers.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Text.Json.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Memory.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Text.Encodings.Web.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.ValueTuple.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Numerics.Vectors.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Buffers.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\ConsoleTest_4_8_3\obj\Debug\ConsoleTest_4_8_3.exe.config

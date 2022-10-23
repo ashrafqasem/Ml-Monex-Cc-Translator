@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4b0a8ee-0745-4618-b591-2268b5df9263": {
+      "ProjectGuid": "a4b0a8ee-0745-4618-b591-2268b5df9263",
+      "DisplayName": "ConsoleTest",
+      "ColorIndex": 0
+    },
+    "131d07a4-b0b9-4a6b-aa9a-b56be0e44159": {
+      "ProjectGuid": "131d07a4-b0b9-4a6b-aa9a-b56be0e44159",
+      "DisplayName": "MLmonexCCtranslator",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

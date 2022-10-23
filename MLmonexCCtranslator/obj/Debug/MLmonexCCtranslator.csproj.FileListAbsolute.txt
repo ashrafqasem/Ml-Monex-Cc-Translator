@@ -1,0 +1,122 @@
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.pdb
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.dll
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.pdb
+C:\Ashraf\Projects\ConsoleTest\ConsoleTest\ConsoleTest_4_8_3\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csprojResolveAssemblyReference.cache
+C:\Micrologic Software\mlmonexcctranslator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll
+C:\Micrologic Software\mlmonexcctranslator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.pdb
+C:\Micrologic Software\mlmonexcctranslator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CoreCompileInputs.cache
+C:\Micrologic Software\mlmonexcctranslator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.dll
+C:\Micrologic Software\mlmonexcctranslator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.pdb
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll.config
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.pdb
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Buffers.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Memory.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Text.Json.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.ValueTuple.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Buffers.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Memory.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Text.Json.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\bin\Debug\System.ValueTuple.xml
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CoreCompileInputs.cache
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CopyComplete
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.dll
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.pdb
+C:\Micrologic Software\mlmonexcctranslator2\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.AssemblyReference.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll.config
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Buffers.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Memory.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Json.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.ValueTuple.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Buffers.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Memory.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Json.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.ValueTuple.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CoreCompileInputs.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CopyComplete
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.AssemblyReference.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CoreCompileInputs.cache
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll.config
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Buffers.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Memory.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Text.Json.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.ValueTuple.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Buffers.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Memory.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Text.Json.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\bin\Debug\System.ValueTuple.xml
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CopyComplete
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\MLmonexCCtranslator_Folder\MLmonexCCtranslator\ml-monex-cc-translator_new\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.AssemblyReference.cache
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll.config
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Buffers.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Memory.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Json.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.ValueTuple.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Buffers.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Memory.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Json.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.ValueTuple.xml
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CoreCompileInputs.cache
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.CopyComplete
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.dll
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.pdb
+D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\obj\Debug\MLmonexCCtranslator.csproj.AssemblyReference.cache

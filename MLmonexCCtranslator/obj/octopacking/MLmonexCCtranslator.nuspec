@@ -1,0 +1,39 @@
+<package>
+  <metadata>
+    <id>MLmonexCCtranslator</id>
+    <version>22.2.8.1</version>
+    <authors>ashraf.qasem</authors>
+    <owners>ashraf.qasem</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The MLmonexCCtranslator deployment package, built on 3/3/2022</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll.config" target="MLmonexCCtranslator.dll.config" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.dll" target="MLmonexCCtranslator.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\MLmonexCCtranslator.pdb" target="MLmonexCCtranslator.pdb" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll" target="Microsoft.Bcl.AsyncInterfaces.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.dll" target="Newtonsoft.Json.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Buffers.dll" target="System.Buffers.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Memory.dll" target="System.Memory.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.dll" target="System.Numerics.Vectors.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll" target="System.Runtime.CompilerServices.Unsafe.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.dll" target="System.Text.Encodings.Web.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Json.dll" target="System.Text.Json.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.dll" target="System.Threading.Tasks.Extensions.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.ValueTuple.dll" target="System.ValueTuple.dll" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml" target="Microsoft.Bcl.AsyncInterfaces.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\Newtonsoft.Json.xml" target="Newtonsoft.Json.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Buffers.xml" target="System.Buffers.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Memory.xml" target="System.Memory.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Numerics.Vectors.xml" target="System.Numerics.Vectors.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml" target="System.Runtime.CompilerServices.Unsafe.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Encodings.Web.xml" target="System.Text.Encodings.Web.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Text.Json.xml" target="System.Text.Json.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.Threading.Tasks.Extensions.xml" target="System.Threading.Tasks.Extensions.xml" />
+    <file src="D:\AshML\Projects\ML_Sft\001-MLmonexCCtranslator\MLmonexCCtranslator\ml-monex-cc-translator\MLmonexCCtranslator\bin\Debug\System.ValueTuple.xml" target="System.ValueTuple.xml" />
+  </files>
+</package>
